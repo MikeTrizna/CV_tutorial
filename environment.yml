@@ -1,0 +1,15 @@
+channels:
+- conda-forge
+dependencies:
+- pandas
+- matplotlib
+- scikit-image
+- keras
+- scipy
+- tqdm
+- scikit-learn
+- cmake
+- dlib
+- pip
+- pip:
+  - face_recognition
